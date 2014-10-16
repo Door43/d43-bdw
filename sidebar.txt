@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bdw:home|Door43 (bdw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bdw|d43-bdw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bdw/archive/master.zip|d43-bdw.zip]]
+
+**Recent Changes**
+{{changes>ns = bdw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bdw|Ethnologue data]]
+
